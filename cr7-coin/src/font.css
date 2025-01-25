@@ -1,0 +1,73 @@
+@font-face {
+    font-family: "ROBOTO THIN";
+    src: url("/src/assets/fonts/RobotoSlab-Thin.ttf");
+    font-display: swap;
+}
+@font-face {
+    font-family: "ROBOTO EXTRA LIGHT";
+    src: url("/src/assets/fonts/RobotoSlab-ExtraLight.ttf");
+    font-display: swap;
+}
+
+@font-face {
+    font-family: "ROBOTO LIGHT";
+    src: url("/src/assets/fonts/RobotoSlab-Light.ttf");
+    font-display: swap;
+}
+
+@font-face {
+    font-family: "ROBOTO REGULAR";
+    src: url("/src/assets/fonts/RobotoSlab-Regular.ttf");
+    font-display: swap;
+}
+
+@font-face {
+    font-family: "ROBOTO MEDIUM";
+    src: url("/src/assets/fonts/RobotoSlab-Medium.ttf");
+    font-display: swap;
+}
+
+@font-face {
+    font-family: "ROBOTO SEMI BOLD";
+    src: url("/src/assets/fonts/RobotoSlab-SemiBold.ttf");
+    font-display: swap;
+}
+
+@font-face {
+    font-family: "ROBOTO BOLD";
+    src: url("/src/assets/fonts/RobotoSlab-Bold.ttf");
+    font-display: swap;
+}
+
+@font-face {
+    font-family: "ROBOTO EXTRA BOLD";
+    src: url("/src/assets/fonts/RobotoSlab-ExtraBold.ttf");
+    font-display: swap;
+}
+
+@font-face {
+    font-family: "ROBOTO BLACK";
+    src: url("/src/assets/fonts/RobotoSlab-Black.ttf");
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'AEONIK REGULAR';
+    src: local('Aeonik'), url('/src/assets/fonts/Aeonik fonts/fonnts.com-Aeonik_Regular.ttf') format('woff'),
+    url('/src/assets/fonts/Aeonik fonts/fonnts.com-Aeonik_Regular.ttf') format('woff2');
+    font-display: swap;
+  }
+  
+  @font-face {
+    font-family: 'AEONIK BOLD';
+    src: local('Aeonik'), url('/src/assets/fonts/Aeonik fonts/fonnts.com-Aeonik_Bold.ttf') format('woff'),
+    url('/src/assets/fonts/Aeonik fonts/fonnts.com-Aeonik_Bold.ttf') format('woff2');
+    font-display: swap;
+  }
+  
+  @font-face {
+    font-family: 'AEONIK LIGHT';
+    src: local('Aeonik'), url('/src/assets/fonts/Aeonik fonts/fonnts.com-Aeonik_Light.ttf') format('woff'),
+    url('/src/assets/fonts/Aeonik fonts/fonnts.com-Aeonik_Light.ttf') format('woff2');
+    font-display: swap;  
+  }

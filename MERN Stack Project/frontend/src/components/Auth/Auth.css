@@ -1,0 +1,58 @@
+.auth-wrapper {
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    align-items: flex-start;
+    background-color: #f2f2f2;
+    /* Add background color to the whole container */
+}
+
+.left {
+    background-color: palevioletred;
+    width: 50%;
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.right {
+    padding: 50px;
+    text-align: center;
+    width: 50%;
+}
+
+.right .header {
+    margin-bottom: 15px;
+    font-size: 2.5em;
+}
+
+
+
+.form-wrapper {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.input {
+    width: 100%;
+    /* Fill the width of the container */
+    padding: 10px;
+    /* Add some padding for better spacing */
+    margin: 10px 0;
+    /* Add vertical margin */
+}
+
+
+
+.new {
+    margin-top: 20px;
+    cursor: pointer;
+    color: rgb(146, 146, 146);
+}
+
+.auth-wrapper .left img {
+    max-width: 100%;
+    height: auto;
+}
